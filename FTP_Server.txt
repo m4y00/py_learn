@@ -1,0 +1,28 @@
+
+# FTP-Zugangsdaten
+
+
+Protokoll:	FTPS
+FTP-Servername:	m4y00.lima-ftp.de
+
+
+SSL-Zertifikat-Fingerprint(s):	
+c1:3f:4e:89:be:0c:72:69:74:62:8f:d1:ce:7e:a9:38:ec:3d:60:7c
+46:c7:b4:8c:21:23:0d:73:28:d9:6b:3c:64:93:37:18:f5:02:e6:70
+
+
+Port-Nummer:	21
+
+
+Benutzername:	m4y00
+Passwort:	62ya6XSmac
+
+
+Webspace-Verzeichnis:	gesamter Webspace
+
+
+Kommentar:	—
+
+
+FTPS erzwingen:	
+Erlaubt die Übertragung von Benutzername und Passwort nur über eine verschlüsselte Verbindung.
